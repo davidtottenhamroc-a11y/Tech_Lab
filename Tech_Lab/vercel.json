@@ -1,7 +1,8 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/menu.html" },
-    { "source": "/abertura", "destination": "/documentacao_tech_tab.html" },
+    { "source": "/", "destination": "Tech_Lab/menu.html" },
+    { "source": "/abertura", "destination": "Tech_Lab/documentacao_tech_tab.html" },
   ]
 }
+
 
